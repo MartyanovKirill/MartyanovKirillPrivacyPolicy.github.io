@@ -1,2 +1,2 @@
 # MartyanovKirillPrivacyPolicy.github.io
-privacy policy
+privace policy
